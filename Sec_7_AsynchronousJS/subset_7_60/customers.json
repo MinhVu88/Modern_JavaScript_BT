@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "Maynard Keenan",
+    "company": "Tool",
+    "phone": "111-111-1111"
+  },
+
+  {
+    "id": 2,
+    "name": "Adam Jones",
+    "company": "Tool",
+    "phone": "222-222-2222"
+  },
+
+  {
+    "id": 3,
+    "name": "Danny Carey",
+    "company": "Tool",
+    "phone": "333-333-3333"
+  },
+
+  {
+    "id": 4,
+    "name": "Justin Chancellor",
+    "company": "Tool",
+    "phone": "444-444-4444"
+  },
+  
+  {
+    "id": 5,
+    "name": "Paul D'Amour",
+    "company": "Tool",
+    "phone": "555-555-5555"
+  }
+]
